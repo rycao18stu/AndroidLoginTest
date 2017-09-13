@@ -27,7 +27,7 @@ public class Login extends AppCompatActivity {
     }
 
     public void LoginButton(){
-        username = (EditText)findViewById(R.id.editText_user);
+        username = (EditText)findViewById(R.id.editText_username);
         password = (EditText)findViewById(R.id.editText_password);
         attempt = (TextView)findViewById(R.id.textView_attempt);
         login_button = (Button)findViewById(R.id.button_login);
