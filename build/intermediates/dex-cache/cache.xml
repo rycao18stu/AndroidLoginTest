@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-26.0.0-alpha1_1b8b7455fad5256a226475d12493f5dac59313a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b510421185d7c075da10db5e72df5547051a365d">
+        <dex dex="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b24a535128a2fa0ec31bd3e7c4baca2c6a1113f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rycao\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_494be693487afdd413e803361066ae2785d618aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-26.0.0-alpha1_05ec78b6fcb05a330541ad3d3e034d0b92c277fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ce5ee9aaeabf6bd6545fca63637d17b0bb126da6">
+        <dex dex="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b4cdcb5dda496a2692adca54e8d8ed01b8e12373\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-26.0.0-alpha1_dd6a177b8fe83c1a2affeccd684415939f74e9a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-26.0.0-alpha1_010e93685e106347354f311d130cf4cf34255819\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-26.0.0-alpha1_81bfc9d30027aca5f986f4321e47d5547cae72d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-26.0.0-alpha1_dfc2715d52068618a5e9146aaedaf0bcbdd2b39a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-26.0.0-alpha1_d49d2d6b1f9004cea99e5d4b1d018654fc639c42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-26.0.0-alpha1_4926a901be2a50e450f4b31b0046368bf0962af7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-26.0.0-alpha1_ed1a0cd23e578959bcb5b37e5321097cb9e55fa0\classes.dex" />
+    </item>
+
+</items>
