@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="ce5ee9aaeabf6bd6545fca63637d17b0bb126da6">
+        sha1="88583b756a80c605af8eda359a4b481c3f30eb72">
         <dex dex="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b4cdcb5dda496a2692adca54e8d8ed01b8e12373\classes.dex" />
     </item>
     <item
@@ -97,7 +97,7 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="4a999f5c2a6770db7472845e2a2a442a4b9ac7f6">
+        sha1="1675fde4c583c9279691b031effdfdef70e36880">
         <dex dex="C:\Users\rycao\GitHub\AndroidLoginTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b24a535128a2fa0ec31bd3e7c4baca2c6a1113f0\classes.dex" />
     </item>
     <item
